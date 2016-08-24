@@ -4,8 +4,6 @@ engines:
     enabled: true
   fixme:
     enabled: true
-  fake_engine:
-    enabled: true
 ratings:
   paths:
     - "**.cls"
