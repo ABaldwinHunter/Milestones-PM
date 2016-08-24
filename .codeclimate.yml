@@ -7,4 +7,4 @@ ratings:
     - "**.cls"
     - "**.trigger"
 exclude_paths:
- - src/applications
+ - /src/applications
